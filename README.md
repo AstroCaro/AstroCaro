@@ -33,7 +33,7 @@ This is the place where I share my projects and break some things.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=python,docker,linux" />
   </a>
 </p>
 

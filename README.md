@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 This is the place where I share my projects and break some things.
 
-- 👀 I’m currently working on my portfolio
+- 👀 I’m currently working on my portfolio: http://carolinasilva.store/
 - 🌱 I’m currently learning everything, especially about Java and Python
 - 💃 I'm looking to collaborate on open source projects
 - 💞️ I’m open to work in fascinating projects

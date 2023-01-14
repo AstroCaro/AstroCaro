@@ -15,7 +15,7 @@ This is the place where I share my projects and break some things.
 - ⚡ Fun fact: I ❤️ 🔭 
 
 ### 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats-liard-eight-57.vercel.app/api?username=astrocaro&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-astrocaro.vercel.app/api?username=astrocaro&show_icons=true&theme=transparent)
 
 ### 💻 Languages and tools:
 

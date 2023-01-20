@@ -2,6 +2,7 @@
 AstroCaro/AstroCaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 ### Hi there, I'm Carolina Silva <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -13,9 +14,13 @@ This is the place where I share my projects and break some things.
 - 💞️ I’m open to work in fascinating projects
 - 📬 How to reach me: [@carolina-sg][linkedin] or say 👋 on Email at [Carolina Silva](mailto:silvagarcesc@gmail.com)
 - ⚡ Fun fact: I ❤️ 🔭 
-
+ 
 ### 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats-astrocaro.vercel.app/api?username=astrocaro&show_icons=true&theme=transparent)
+  
+<div align="center">
+<a href="http://www.github.com/AstroCaro"><img width="60%" src="https://github-readme-stats-astrocaro.vercel.app/api?username=AstroCaro&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="AstroCaro's GitHub stats"/></a>
+<a href="http://www.github.com/AstroCaro"><img alt="AstroCaro Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroCaro&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+</div>
 
 ### 💻 Languages and tools:
 
@@ -36,6 +41,8 @@ This is the place where I share my projects and break some things.
     <img src="https://skillicons.dev/icons?i=python,docker,linux" />
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
 ### Connect with me:
 

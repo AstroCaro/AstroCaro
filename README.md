@@ -32,13 +32,13 @@ This is the place where I share my projects and break some things.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,php" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=python,mysql,docker,linux" />
   </a>
 </p>
 

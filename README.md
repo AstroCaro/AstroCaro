@@ -26,7 +26,7 @@ This is the place where I share my projects and break some things.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,figma" />
   </a>
 </p>
 
